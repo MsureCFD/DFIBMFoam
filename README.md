@@ -27,7 +27,7 @@ A detailed description of the project's background, goals, and use cases.
 
 ## Installation
 
-Dowqnload the complete folder. Compile the code and run cases in the case folder.
+Download the complete folder. Compile the code and run cases in the case folder.
 
 ## examples
 - Oscillating cylinder in static flow
