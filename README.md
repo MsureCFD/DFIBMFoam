@@ -21,23 +21,15 @@ A detailed description of the project's background, goals, and use cases.
 
 ## Features
 
-List the main features of the project:
-
-- Feature 1
-- Feature 2
-- Feature 3
+- Easy to use
+- Second order inertpolation and distribution
+- 2d but can be easily chaged to 3d
 
 ## Installation
 
-Step-by-step instructions on how to install and configure the project:
+Dowqnload the complete folder. Compile the code and run cases in the case folder.
 
-```bash
-# Clone the repository
-git clone https://github.com/username/repository.git
+## examples
+- Oscillating cylinder in static flow
 
-# Navigate to the project directory
-cd repository
-
-# Install dependencies
-npm install
-
+- School of fish swimming around a circular path (single or multiple fish)
