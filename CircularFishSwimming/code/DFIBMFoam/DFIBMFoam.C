@@ -82,7 +82,7 @@ Note
 #include "CorrectPhi.H"
 #include "fvOptions.H"
 
-#include <memory>  // 包含智能指针的头文件
+#include <memory>  // 
 #include "IBM.H"
 #include <nlohmann/json.hpp>
 
@@ -153,7 +153,7 @@ int main(int argc, char *argv[])
     {
         auto obj = std::make_unique<IBM>(mesh, dx, dy, dz, nx, ny, nz, minX, minY, minZ, maxX, maxY, maxZ, objNum);
         obj->initFish(currentTime, i, length, nSections, lambda, period, radius, cycleT);
-        objs.push_back(std::move(obj));  // 将对象移动到向量中
+        objs.push_back(std::move(obj));  // 
     }
 
     // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
