@@ -21,9 +21,9 @@ A detailed description of the project's background, goals, and use cases.
 
 ## Features
 
-- Easy to use
-- Second order inertpolation and distribution
-- 2d but can be easily chaged to 3d
+- Less code and easy to use. No complex IBM reconstruction but can get a good result
+- Second order velocity inertpolation and force distribution
+- 2D but can be easily chaged to 3D
 
 ## Installation
 
