@@ -1,7 +1,6 @@
 # DFIBMFoam
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) 
-![Build Status](https://travis-ci.com/username/repository.svg?branch=main)
 ![Contributors](https://img.shields.io/github/contributors/username/repository.svg)
 
 OpenFOAM solver based on direct-force immersed boundary method.
