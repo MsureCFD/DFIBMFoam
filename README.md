@@ -33,3 +33,6 @@ Download the complete folder. Compile the code and run cases in the case folder.
 - Oscillating cylinder in static flow
 
 - School of fish swimming around a circular path (single or multiple fish)
+
+- ## Contact
+- Shuo: s.mi@qmul.ac.uk
