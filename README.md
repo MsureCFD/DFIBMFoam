@@ -17,7 +17,7 @@ OpenFOAM solver based on direct-force immersed boundary method.
 
 ## Introduction
 
-A detailed description of the project's background, goals, and use cases.
+
 
 ## Features
 
