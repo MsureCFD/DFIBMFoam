@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) 
 
-OpenFOAM solver based on direct-force immersed boundary method.
+OpenFOAM solver based on direct-force immersed boundary method (IBM).
 
 ## Table of Contents
 
