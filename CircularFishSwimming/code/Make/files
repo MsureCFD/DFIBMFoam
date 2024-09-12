@@ -1,0 +1,5 @@
+DFIBMFoam.C
+IBM.C
+
+EXE = $(FOAM_USER_APPBIN)/DFIBMFoam
+
