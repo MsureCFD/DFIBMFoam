@@ -18,7 +18,8 @@ OpenFOAM solver based on direct-force immersed boundary method (IBM).
 ## Introduction
 
 ![演示 GIF](https://github.com/MsureCFD/DFIBMFoam/blob/main/fishSwimming.gif)
-<div><video controls src="<!---[video URL](https://github.com/MsureCFD/DFIBMFoam/blob/main/3dFishQ-criterion.mp4)--->" muted="false"></video></div>
+<div><video controls src="<!---[video URL])--->" muted="false"></video></div>
+[![Watch the video](https://github.com/MsureCFD/DFIBMFoam/blob/main/3dFishQ-criterion.mp4)](https://github.com/MsureCFD/DFIBMFoam/blob/main/3dFishQ-criterion.mp4)
 
 
 ## Features
