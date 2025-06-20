@@ -40,3 +40,7 @@ Download the complete folder. Compile the code and run cases in the case folder.
 
 - ## Contact
 - Shuo: s.mi@qmul.ac.uk
+
+- ## Reference
+Can you please refer to this paper if you would like to use this code in your publications?
+- Mi, Shuo, et al. "A fluid–structure interaction (FSI) solver for evaluating the impact of circular fish swimming patterns on offshore aquaculture." Computers and Electronics in Agriculture 237 (2025): 110625.
